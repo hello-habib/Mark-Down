@@ -34,5 +34,13 @@ x = (1+ sqrt(5))/2
 - [x] milk
 - [x] eggs
 - [ ] teabags
-
-
+## Heading 
+** To write heading we have to start with hashes from 1 to 6 for biggest to lowest **
+# Heading one
+## Heading two
+### Heading three 
+#### Heading four
+##### Heading five
+###### Heading six
+# Links 
+[Build data and AI skills with DataCamp](https://www.datacamp.com)
